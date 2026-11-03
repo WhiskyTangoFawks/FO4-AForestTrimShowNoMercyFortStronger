@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/A\ Forest\ Trim\ -\ Show\ No\ Mercy\ Fort\ Stronger.manifest.json

@@ -1,0 +1,22 @@
+{
+  "ModKey": "AForest - FortStronger.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 1
+    },
+    "Author": "",
+    "OverriddenForms": [
+      "009F79:A Forest.esp",
+      "009F7B:A Forest.esp",
+      "009F95:A Forest.esp",
+      "009F96:A Forest.esp",
+      "009F9A:A Forest.esp",
+      "009F9B:A Forest.esp",
+      "009F9C:A Forest.esp"
+    ]
+  }
+}
